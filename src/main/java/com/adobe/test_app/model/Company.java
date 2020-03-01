@@ -73,4 +73,4 @@ public final class Company {
     public long getNumberOfEmployees() {
         return numberOfEmployees;
     }
-}
+} 
